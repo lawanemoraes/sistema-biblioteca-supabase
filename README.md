@@ -121,16 +121,3 @@ A cada novo `commit` na branch `main`, a Vercel publica a atualização automati
 ## 🔒 Segurança
  
 As políticas de RLS deste projeto são abertas e servem **apenas para fins didáticos**. Em uma aplicação real, o acesso deve ser restringido com autenticação e regras de autorização.
- 
-## 👩‍💻 Autora
- 
-**Lawane Moraes**
-[![GitHub](https://img.shields.io/badge/GitHub-lawanemoraes-181717?style=flat&logo=github)](https://github.com/lawanemoraes)
- 
----
- 
-<div align="center">
-Feito com 💙 para fins acadêmicos
-</div>
- 
-Claude terminou a resposta
